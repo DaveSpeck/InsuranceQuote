@@ -6,4 +6,4 @@ And I provided the primary use
 And I provided the primary zip code
 And I provided the ownership status
 When I submit the form
-Then show me the identified vehicles page
+Then show me the add vehicle page
