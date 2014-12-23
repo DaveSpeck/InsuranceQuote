@@ -5,7 +5,8 @@ I want to add my vehicles that were not identified
 So that I get an accurate quote
 
 Scenario: Identify the vehicle by year, make and model
-Given I ask to add a new vehicle
+Given I am on the add vehicle page 
+And I ask to add a new vehicle
 And I choose to add the vehicle by year, make and model
 And I provide the year, make and model
 And I provide the required information
