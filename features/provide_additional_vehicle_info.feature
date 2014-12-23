@@ -7,3 +7,4 @@ And I provided the primary zip code
 And I provided the ownership status
 When I submit the form
 Then show me the add vehicle page
+And indicate that the vehicle has been added
