@@ -1,4 +1,4 @@
-Feature:  Add an identified vehicle to the quote
+Feature:  Add a vehicle to the quote
 
 As a potential customer
 I want to add an identified vehicle to my quote
