@@ -6,5 +6,4 @@ And I have selected to add the vehicle by year, make and model
 And I provide the year, make and model
 And I provide the required information
 When I submit the form 
-Then show me the xxxx page
-And show me the vehicle I just added
+Then show me the add vehicle page with the vehicles I have added
