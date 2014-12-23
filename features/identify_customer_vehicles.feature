@@ -13,9 +13,9 @@ And I have provided my name
 And I have provided my address
 And I have provided my DOB
 When I submit the form
-And the vehicles were identified
+And the vehicles were found
 Then show me the add vehicle page
-And show me my identified vehicles
+And show me my vehicles
 
 Scenario: Missing the data required to locate vehicles
 Given I have started an Auto-only quote
@@ -37,5 +37,5 @@ And I have provided my name
 And I have provided my address
 And I have provided my DOB
 When I submit the form
-And the vehicles are not identified
+And the vehicles are not found
 Then show me the add vehicle page with no vehicles added
