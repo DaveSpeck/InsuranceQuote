@@ -16,7 +16,7 @@ And the vehicles were found
 Then show me the add vehicle page
 And show me my vehicles
 
-Scenario: Missing the data required to locate vehicles
+Scenario Outline: Missing the data required to locate vehicles
 Given I am on the name and address page
 And I have not provided my <personal_data>
 When I submit the form
