@@ -29,8 +29,7 @@ Examples:
 | date of birth |
 
 Scenario: Unable to identify customer vehicles
-Given I have started an Auto-only quote
-And I am on the name and address page
+Given I am on the name and address page
 And I have provided my name
 And I have provided my address
 And I have provided my DOB
