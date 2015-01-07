@@ -1,11 +1,11 @@
-Feature: Start an Auto-only quote
+Feature: Start a new auto-only quote
 
 As a potential customer
 I want to receive an insurance quote
 So that I can make a smarter purchase decision
 
 Background:
-Given I have landed on progressive.com
+Given I have landed on fakeauto.com
 And I have selected Auto
 
 Scenario: Select Auto
