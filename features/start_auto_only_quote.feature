@@ -7,7 +7,7 @@ So that I can make a smarter purchase decision
 Note: We will present the idea of bundling to the customer even though we are not able to quote other products at this time.
 
 Background:
-Given I have landed on fakeauto.com
+Given I have landed on the home page
 And I have chosen Auto as my product
 
 Scenario: Select Auto
