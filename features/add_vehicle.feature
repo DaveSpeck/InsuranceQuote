@@ -1,8 +1,8 @@
-Feature:  Add an identified vehicle to the quote
+Feature:  Add an identified or unidentified vehicle to the quote
 
 As a potential customer
 I want to add an identified vehicle to my quote
-So that I can skip having to add vehicle data myself
+So that I can skip having to add the vehicle data myself
 
 Scenario: Add an identified vehicle
 Given I am on the add vehicle page
