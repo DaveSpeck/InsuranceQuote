@@ -1,12 +1,14 @@
 Feature: Start a new auto-only quote
 
 As a potential customer
-I want to receive an insurance quote
+I want to start an insurance quote
 So that I can make a smarter purchase decision
+
+Note: We will present the idea of bundling to the customer even though we are not able to quote other products at this time.
 
 Background:
 Given I have landed on fakeauto.com
-And I have selected Auto
+And I have chosen Auto as my product
 
 Scenario: Select Auto
 Given I have provided a zip code
