@@ -4,7 +4,7 @@ As a potential customer
 I want to provide information about myself
 So that my vehicles can be identified and eliminate the need for my data entry
 
-There is a 3rd party service that will be used to look up vehicle records based on name, address and dob
+Note: There is a 3rd party service that will be used to look up vehicle records based on name, address and dob
 
 Scenario: Identify customer vehicles
 Given I am on the name and address page
